@@ -19,7 +19,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar)](https://github.com/alifsyahakbar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifsyahakbar)](https://github.com/alifsyahakbar/github-readme-stats)
 
 <!--
 **alifsyahakbar/alifsyahakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
