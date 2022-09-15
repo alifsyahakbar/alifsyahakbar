@@ -1,3 +1,5 @@
+
+<img align="center" src="https://images6.fanpop.com/image/photos/40100000/Mitsuha-Miyamizu-vocafan1115-40151364-1920-1200.png">
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
