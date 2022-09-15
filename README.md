@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alifsyahakbar)](https://github.com/alifsyahakbar?tab=repositories)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&hide=contribs,prs)
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
