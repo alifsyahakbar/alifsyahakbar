@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&show_icons=true)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
