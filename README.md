@@ -1,4 +1,4 @@
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&show_icons=true&theme=radical)</p>
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
