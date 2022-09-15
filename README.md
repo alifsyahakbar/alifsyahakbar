@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
-<div align="left">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&show_icons=true&theme=radical)</div>
+<span style="display:block;text-align:center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsyahakbar&show_icons=true&theme=radical)</span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0e75b6&style=flat" alt="fiandev" /> </p>
 
 - 🌱 I’m currently learning **PHP, TailwindCSS**
