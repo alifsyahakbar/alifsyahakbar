@@ -1,9 +1,8 @@
 
-<img align="center" src="https://images6.fanpop.com/image/photos/40100000/Mitsuha-Miyamizu-vocafan1115-40151364-1920-1200.png" height="200px">
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiandev&label=Profile%20views&color=0e75b6&style=flat" alt="fiandev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifsyahakbar&label=Profile%20views&color=0e75b6&style=flat" alt="alifsyahakbar" /> </p>
 
 - 🌱 I’m currently learning **PHP, TailwindCSS**
 
