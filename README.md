@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alifsyahakbar)](https://git.io/streak-stats)
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
