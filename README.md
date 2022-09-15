@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alifsyahakbar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alifsyahakbar)](https://github.com/alifsyahakbar?tab=repositories)
 <h1 align="center">Hi 👋, I'm Alif</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
